@@ -1,0 +1,2 @@
+,rnn_layers,hidden_size,dropout,lr
+0,1,32,0.3,0.01
